@@ -55,7 +55,7 @@ Layout mimics basic chat window interface
 
 1. Download the repository or clone it:
 
-git clone https://github.com/your-username/chat-ui.git
+git clone https://github.com/amalnourin/chat-ui.git
 
 
 2. Open index.html in any browser.
